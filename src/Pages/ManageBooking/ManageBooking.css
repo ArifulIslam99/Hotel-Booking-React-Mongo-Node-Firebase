@@ -1,0 +1,19 @@
+.mng-booking{
+       margin: 30px;
+       border: 1px solid gray;
+       background-color: rgb(34, 25, 25);
+       color: white;
+       align-items: center;
+       
+       
+}
+
+.mng-booking div{
+    border-right: 4px solid gray;
+}
+
+@media screen and (max-width: 600px) {
+   .top-con{
+       visibility: collapse;
+   }
+  }

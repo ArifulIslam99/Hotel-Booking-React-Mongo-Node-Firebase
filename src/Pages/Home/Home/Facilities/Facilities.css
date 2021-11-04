@@ -1,0 +1,30 @@
+.fac-card{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-image: url('https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: opacity(0.9);
+    
+}
+
+
+.fac-card div{
+    margin: 40px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+
+.image-fac{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+@media screen and (max-width: 600px) {
+    .fac-card{
+        grid-template-columns: repeat(1, 1fr);
+    }
+  }

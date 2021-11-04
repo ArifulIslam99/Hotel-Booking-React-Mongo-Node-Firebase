@@ -1,0 +1,10 @@
+form input{
+     width: 60%;
+     margin: 10px;
+     text-align: center;
+     
+}
+
+.booking{
+    border-right: 1px solid gray;
+}

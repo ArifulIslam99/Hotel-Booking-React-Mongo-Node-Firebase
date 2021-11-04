@@ -1,0 +1,15 @@
+.service{
+
+    border: 1px solid gray ;
+    background-color: chocolate; 
+    padding: 3px; 
+    color: white; 
+    border-radius: 10px;
+    font-weight: 600;
+   
+}
+
+.b-container{
+       margin-top: 120px;
+       margin-bottom: 120px;
+}

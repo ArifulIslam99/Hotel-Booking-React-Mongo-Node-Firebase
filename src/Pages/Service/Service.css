@@ -1,0 +1,20 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.form input{
+    width: 40%;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.container-form{
+    background-image: url('https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
