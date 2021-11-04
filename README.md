@@ -1,10 +1,10 @@
 ## Welcome to Hotel-Exodia-Private-Limited
 
-#### A hotel Booking Website for Touring spot and others.
+#### A hotel Booking Website for Tourists, Foreigners and others.
 
 visit the Wbsite at https://hotel-exodia-private-limited.web.app/ 
 
-##### Top Five Feutes -> 
+##### Top  Features -> 
 
 => Guest can See the Services offering by the hotel. 
 
