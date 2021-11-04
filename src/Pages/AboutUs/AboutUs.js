@@ -1,9 +1,10 @@
 import React from 'react';
+import img from '../../images/1.jpg'
 
 const AboutUs = () => {
     return (
         <div className="my-5">
-            <img className="img-fluid h-25 w-25 mx-auto" src="https://images.pexels.com/photos/2373201/pexels-photo-2373201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="" />
+            <img className="img-fluid h-25 w-25 mx-auto" src={img} alt="" />
 
             <div className="mt-3">
             <h2 className="fs-1 fw-bold"> Hotel Exodia Private Limited.</h2>

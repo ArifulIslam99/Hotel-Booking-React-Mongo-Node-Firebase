@@ -57,7 +57,7 @@ const MyBooking = () => {
                        <p  className='col-lg-4 col-xs-8 mx-auto service'>Booked Date : {booked.date}</p>
                        <p  className='col-lg-4 col-xs-8 mx-auto service'>Booked Person: {booked.name} </p>
                        <p  className='col-lg-4 col-xs-8 mx-auto service'> Person Email: {booked.email} </p>
-                       <Button onClick={()=>handleCancel(booked._id)} variant='warning'>Cancel Booking!</Button>
+                       <Button onClick={()=>handleCancel(booked._id)} variant='danger'>Cancel Booking</Button>
                        </div> :
                        <div>
                            <h3 style={{border:'1px solid black', width:'40%'}} className="mx-auto p-4">No Booking is Available</h3>

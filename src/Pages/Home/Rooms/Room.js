@@ -18,7 +18,7 @@ const Room = ({room}) => {
               <p>Kitchen : {kitchen} </p>
               <p>Starting From : {price} USD</p> 
               <Link to={ `/booking/${_id}`}>
-                 <Button >Book Now</Button>
+                 <Button variant="warning">Book Now</Button>
               </Link>
                 
              

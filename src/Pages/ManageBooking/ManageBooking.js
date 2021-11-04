@@ -66,7 +66,7 @@ const ManageBooking = () => {
                 <p className="col-lg-2 fw-bold">E-mail</p>
                 <p className="col-lg-2 fw-bold">Booking ID</p>
                 <p className="col-lg-2 fw-bold">Booking Date</p>
-                <p className="col-lg-2 fw-bold">Active Status</p>
+                <p className="col-lg-2 fw-bold">Status</p>
                 <p className="col-lg-1 fw-bold">Approve</p>
                 <p className="col-lg-1 fw-bold">Delete</p>
             </div>
